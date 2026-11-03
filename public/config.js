@@ -1,5 +1,5 @@
 window.APP_CONFIG = {
-  API_URL: "https://server.applock.online", 
+  API_URL: "https://api-chocochoco.onrender.com", 
   ENVIRONMENT: "development"
 };
 
